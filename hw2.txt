@@ -1,19 +1,10 @@
-1. 145.254.160.237, 216.239.59.99, 65.208.228.223, 76.74.254.125, 192.168.1.141
-
-2. www.ethereal.com
-
-3. 192.168.0.1, 192.168.0.2
-
-4. user
-
-5. Sat Nov 27 20:11:43
-
-6. ping, ls, ls -a, exit
-
-7. edmond
-
-8. cs.uic.edu
-
-9. ls, echo, ping, echo, exit
-
-10. 131.193.34.202, 100, /xampp
+145.254.160.237, 216.239.59.99, 65.208.228.223, 76.74.254.125, 192.168.1.141
+www.ethereal.com
+192.168.0.1, 192.168.0.2
+user
+Sat Nov 27 20:11:43
+ping, ls, ls -a, exit
+edmond
+cs.uic.edu
+ls, echo, ping, echo, exit
+131.193.34.202, 100, /xampp

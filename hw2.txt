@@ -7,4 +7,4 @@ ping, ls, ls -a, exit
 edmond
 cs.uic.edu
 ls, echo, ping, echo, exit
-131.193.34.202, 100, /xampp
+131.193.34.202, 100, /xampp/index.php
